@@ -1,7 +1,7 @@
 Multi-module application for making orders, includes order class and client.
 
 Application characteristics:
-- multi-module application divided into: persistence, service, ui.
+- multi-module application divided into: persistence, service, ui, written in java
 Persistence is a module that contains models, service contains business logic, and ui is used to communication.
 - the application uses the gson library to convert data from and to json format.
 - the data can come either from a json file or a plain text txt file.

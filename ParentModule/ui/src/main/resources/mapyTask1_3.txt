@@ -1,0 +1,8 @@
+Olo;Zwyrolo;48;7000 [Ford;Car;2000 HarryPotter;ksiazka;100]
+Magdalena;Glowacka;27;14000 [Koszula;Ubrania;200 Spodnie;Ubrania;200]
+Wiktoria;Kazik;22;9000 [Pugol;Car;6000 Gadki;Ubrania;120]
+Wiktoria;Kazik;22;9000 [stanik;Ubrania;100 Hobbit;ksiazka;120]
+Harald;Wilczyk;76;10000 [Skarpetki;Ubrania;20 ProgramowanieJava;ksiazka;120]
+Witold;Pietrzyk;56;4000 [Garnitur;Ubrania;400 Dziady;ksiazka;20]
+Robert;Kubica;30;30000 [Bmw;Car;15000 Kombinezon;Ubrania;3000]
+Andrzej;Duda;45;1000 [JakZjebacNarod;ksiazka;20 JakWlazicWDupeKaczynskiemu;ksiazka;30]

@@ -1,0 +1,8 @@
+Jan;Kos;18;3000 [Komputer;Elektronika;2400 PanTadeusz;ksiazka;120]
+Magdalena;Glowacka;27;14000 [Porsche;Car;100000 Stanik;Ubrania;200]
+Kacper;Nowak;35;3000 [Bluzka;Ubrania;20 Koszula;Ubrania;120]
+Witold;Pietrzyk;56;4000 [Komputer;Elektronika;1400 Kamasutra;ksiazka;120]
+Harald;Wilczyk;76;10000 [Opel;Car;3400 PanTadeusz;ksiazka;120]
+Wiktoria;Kazik;22;9000 [stanik;Ubrania;100 Hobbit;ksiazka;120]
+Cristiano;Ronaldo;34;20000 [Bugatti;Car;10000 Laptop;Elektronika;2000]
+Amadeusz;Mozart;201;1500 [Spiewnik;ksiazka;20 Mp3;Elektronika;60]

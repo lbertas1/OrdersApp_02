@@ -1,0 +1,8 @@
+Marek;Karek;48;2000 [Glosniki;Elektronika;400 Wesele;ksiazka;70]
+Magdalena;Glowacka;27;14000 [Szpilki;Ubrania;500 Sukienka;Ubrania;400]
+Jan;Witold;56;6000 [Micra;Car;4000 Koszula;Ubrania;120]
+Witold;Pietrzyk;56;4000 [Garnitur;Ubrania;400 Dziady;ksiazka;20]
+Harald;Wilczyk;76;10000 [Spodnie;Ubrania;40 Biblia;ksiazka;120]
+Wiktoria;Kazik;22;9000 [stanik;Ubrania;100 Hobbit;ksiazka;120]
+Cristiano;Ronaldo;34;20000 [Garnitur;Ubrania;2000 Spodenki;Ubrania;200]
+Amadeusz;Mozart;201;1500 [Modlitewnik;ksiazka;30 Mp4;Elektronika;80]

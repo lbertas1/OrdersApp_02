@@ -1,0 +1,9 @@
+persistence\model\Order$OrderBuilder.class
+persistence\model\Client.class
+persistence\model\Product$ProductBuilder.class
+persistence\model\Product.class
+persistence\converters\JsonConverter.class
+persistence\exception\JsonConverterException.class
+persistence\converters\JsonBaseConverter.class
+persistence\model\Order.class
+persistence\model\Client$ClientBuilder.class

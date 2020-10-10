@@ -1,0 +1,372 @@
+[
+  {
+    "client": {
+      "name": "Jan",
+      "surname": "Kos",
+      "age": 18,
+      "balance": 3000.0
+    },
+    "products": [
+      {
+        "name": "Komputer",
+        "category": "Elektronika",
+        "price": 2400.0
+      },
+      {
+        "name": "PanTadeusz",
+        "category": "ksiazka",
+        "price": 120.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Magdalena",
+      "surname": "Glowacka",
+      "age": 27,
+      "balance": 14000.0
+    },
+    "products": [
+      {
+        "name": "Porsche",
+        "category": "Car",
+        "price": 100000.0
+      },
+      {
+        "name": "Stanik",
+        "category": "Ubrania",
+        "price": 200.0
+      },
+      {
+        "name": "Szpilki",
+        "category": "Ubrania",
+        "price": 500.0
+      },
+      {
+        "name": "Sukienka",
+        "category": "Ubrania",
+        "price": 400.0
+      },
+      {
+        "name": "Koszula",
+        "category": "Ubrania",
+        "price": 200.0
+      },
+      {
+        "name": "Spodnie",
+        "category": "Ubrania",
+        "price": 200.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Kacper",
+      "surname": "Nowak",
+      "age": 35,
+      "balance": 3000.0
+    },
+    "products": [
+      {
+        "name": "Bluzka",
+        "category": "Ubrania",
+        "price": 20.0
+      },
+      {
+        "name": "Koszula",
+        "category": "Ubrania",
+        "price": 120.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Witold",
+      "surname": "Pietrzyk",
+      "age": 56,
+      "balance": 4000.0
+    },
+    "products": [
+      {
+        "name": "Komputer",
+        "category": "Elektronika",
+        "price": 1400.0
+      },
+      {
+        "name": "Kamasutra",
+        "category": "ksiazka",
+        "price": 120.0
+      },
+      {
+        "name": "Garnitur",
+        "category": "Ubrania",
+        "price": 400.0
+      },
+      {
+        "name": "Garnitur",
+        "category": "Ubrania",
+        "price": 400.0
+      },
+      {
+        "name": "Dziady",
+        "category": "ksiazka",
+        "price": 20.0
+      },
+      {
+        "name": "Dziady",
+        "category": "ksiazka",
+        "price": 20.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Harald",
+      "surname": "Wilczyk",
+      "age": 76,
+      "balance": 10000.0
+    },
+    "products": [
+      {
+        "name": "Opel",
+        "category": "Car",
+        "price": 3400.0
+      },
+      {
+        "name": "PanTadeusz",
+        "category": "ksiazka",
+        "price": 120.0
+      },
+      {
+        "name": "Spodnie",
+        "category": "Ubrania",
+        "price": 40.0
+      },
+      {
+        "name": "Biblia",
+        "category": "ksiazka",
+        "price": 120.0
+      },
+      {
+        "name": "Skarpetki",
+        "category": "Ubrania",
+        "price": 20.0
+      },
+      {
+        "name": "ProgramowanieJava",
+        "category": "ksiazka",
+        "price": 120.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Wiktoria",
+      "surname": "Kazik",
+      "age": 22,
+      "balance": 9000.0
+    },
+    "products": [
+      {
+        "name": "stanik",
+        "category": "Ubrania",
+        "price": 100.0
+      },
+      {
+        "name": "stanik",
+        "category": "Ubrania",
+        "price": 100.0
+      },
+      {
+        "name": "stanik",
+        "category": "Ubrania",
+        "price": 100.0
+      },
+      {
+        "name": "Hobbit",
+        "category": "ksiazka",
+        "price": 120.0
+      },
+      {
+        "name": "Hobbit",
+        "category": "ksiazka",
+        "price": 120.0
+      },
+      {
+        "name": "Hobbit",
+        "category": "ksiazka",
+        "price": 120.0
+      },
+      {
+        "name": "Pugol",
+        "category": "Car",
+        "price": 6000.0
+      },
+      {
+        "name": "Gadki",
+        "category": "Ubrania",
+        "price": 120.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Cristiano",
+      "surname": "Ronaldo",
+      "age": 34,
+      "balance": 20000.0
+    },
+    "products": [
+      {
+        "name": "Bugatti",
+        "category": "Car",
+        "price": 10000.0
+      },
+      {
+        "name": "Laptop",
+        "category": "Elektronika",
+        "price": 2000.0
+      },
+      {
+        "name": "Garnitur",
+        "category": "Ubrania",
+        "price": 2000.0
+      },
+      {
+        "name": "Spodenki",
+        "category": "Ubrania",
+        "price": 200.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Amadeusz",
+      "surname": "Mozart",
+      "age": 201,
+      "balance": 1500.0
+    },
+    "products": [
+      {
+        "name": "Spiewnik",
+        "category": "ksiazka",
+        "price": 20.0
+      },
+      {
+        "name": "Mp3",
+        "category": "Elektronika",
+        "price": 60.0
+      },
+      {
+        "name": "Modlitewnik",
+        "category": "ksiazka",
+        "price": 30.0
+      },
+      {
+        "name": "Mp4",
+        "category": "Elektronika",
+        "price": 80.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Marek",
+      "surname": "Karek",
+      "age": 48,
+      "balance": 2000.0
+    },
+    "products": [
+      {
+        "name": "Glosniki",
+        "category": "Elektronika",
+        "price": 400.0
+      },
+      {
+        "name": "Wesele",
+        "category": "ksiazka",
+        "price": 70.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Jan",
+      "surname": "Witold",
+      "age": 56,
+      "balance": 6000.0
+    },
+    "products": [
+      {
+        "name": "Micra",
+        "category": "Car",
+        "price": 4000.0
+      },
+      {
+        "name": "Koszula",
+        "category": "Ubrania",
+        "price": 120.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Olo",
+      "surname": "Zwyrolo",
+      "age": 48,
+      "balance": 7000.0
+    },
+    "products": [
+      {
+        "name": "Ford",
+        "category": "Car",
+        "price": 2000.0
+      },
+      {
+        "name": "HarryPotter",
+        "category": "ksiazka",
+        "price": 100.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Robert",
+      "surname": "Kubica",
+      "age": 30,
+      "balance": 30000.0
+    },
+    "products": [
+      {
+        "name": "Bmw",
+        "category": "Car",
+        "price": 15000.0
+      },
+      {
+        "name": "Kombinezon",
+        "category": "Ubrania",
+        "price": 3000.0
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "Andrzej",
+      "surname": "Duda",
+      "age": 45,
+      "balance": 1000.0
+    },
+    "products": [
+      {
+        "name": "JakZjebacNarod",
+        "category": "ksiazka",
+        "price": 20.0
+      },
+      {
+        "name": "JakWlazicWDupeKaczynskiemu",
+        "category": "ksiazka",
+        "price": 30.0
+      }
+    ]
+  }
+]
